@@ -1,6 +1,6 @@
 
 # Alt Başlık Spammer
-Discord server channel mass threader.
+Discord sunucusunda altbaşlık spamlayarak saldırı yapmanıza yarar.
 
 ## Kurulum
 NPM Packages:
